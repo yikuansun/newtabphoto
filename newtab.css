@@ -24,6 +24,7 @@ body {
     height: 34px;
     overflow: hidden;
     user-select: none;
+    white-space: nowrap;
 }
 
 #infobox:hover {
